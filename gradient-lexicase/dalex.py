@@ -32,7 +32,7 @@ parser.add_argument('--seed', default=666, type=int)
 parser.add_argument('--pop', default='4', type=int, help='population size')
 parser.add_argument('--save', action='store_true', help='save checkpoint')
 parser.add_argument('--selector', default='lexicase', help='selector for evolution')
-parser.add_argument('--std', default=1, type=float, help='standard deviation for wlexicase')
+parser.add_argument('--std', default=1, type=float, help='standard deviation for dalex')
 args = parser.parse_args()
 
 torch.random.manual_seed(args.seed)
