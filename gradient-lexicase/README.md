@@ -16,4 +16,6 @@ To train and evaluate gradient DALex, do
 
 The architectures are indexed as follows (from 0 to 1): VGG, ResNet18
 
+Code adapted from [Optimizing Neural Networks with Gradient Lexicase Selection](https://openreview.net/forum?id=J_2xNmVcY4), Ding & Spector, ICLR 2022.
+
 Please contact the authors for further questions.
