@@ -1,6 +1,6 @@
 
 # SRBench benchmark suite
-This section tests DALex versus epsilon lexicase on black-box regression problems from the SRBench suite. Code is adapted from [gplearn](https://github.com/trevorstephens/gplearn/tree/main) by Trevor Stephens and [Contemporary Symbolic Regression Methods and their Relative Performance](https://arxiv.org/abs/2107.14351) by La Cava et al. (2021).
+This section tests DALex versus epsilon lexicase on black-box regression problems from the SRBench suite. Code is adapted from [gplearn](https://github.com/trevorstephens/gplearn/tree/main) by Trevor Stephens and [Contemporary Symbolic Regression Methods and their Relative Performance](https://arxiv.org/abs/2107.14351) by La Cava et al. (2021). Selection algorithm code is adapted from [Code Building Genetic Programming](https://dl.acm.org/doi/abs/10.1145/3377930.3390239) by Pantridge & Spector (2020).
 
 # Usage
 
