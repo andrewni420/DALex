@@ -4,7 +4,7 @@ This section tests DALex versus epsilon lexicase on black-box regression problem
 
 # Usage
 
-This benchmark suite relies on using PMLB datasets from [PMLB v1.0: an open source dataset collection for benchmarking machine learning methods](https://arxiv.org/abs/2012.00058) by Romano et al. (2020), which are not distributed with this repository. The datasets should be downloaded and unzipped before running experiments.
+This benchmark suite relies on using PMLB datasets from [PMLB v1.0: an open source dataset collection for benchmarking machine learning methods](https://arxiv.org/abs/2012.00058) by Romano et al. (2020), which are not distributed with this repository. The datasets should be downloaded and unzipped before running experiments. In addition, the appropriate [setup steps](https://cavalab.org/srbench/user-guide/#installation) in the SRBench suite should be followed, such as creating a virtual environment.
 
 To run symbolic regression, do
 
