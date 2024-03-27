@@ -236,8 +236,7 @@ def test(epoch, net):
 
     return acc
 
-# arch = VGG
-arch = ResNet18
+arch = [VGG, ResNet18][args.arch]
 
 # initialize children
 children = [arch(num_classes=num_classes).to(device) for _ in range(pop_size)]
